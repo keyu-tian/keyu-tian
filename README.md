@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&theme=graywhite&count_private=true&hide=issues,contribs" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&title_color=61dafb&icon_color=61dafb&text_color=333&bg_color=fffefe&count_private=true&hide=issues,contribs" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyu-tian&layout=compact" />
 </p>
