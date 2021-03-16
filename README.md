@@ -3,7 +3,7 @@
  <h2 align="center">Kevin</h2>
 </p>
 
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **keyu-tian/keyu-tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&theme=graywhite&count_private=true&hide=issues,contribs" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyu-tian&layout=compact" />
+<p align="center">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&theme=graywhite&count_private=true&hide=issues,contribs" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyu-tian&layout=compact" />
+</p>
