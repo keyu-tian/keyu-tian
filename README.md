@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=fffefe&show_icons=true&count_private=true&hide=issues,contribs" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=fffefe&show_icons=true&count_private=true" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyu-tian&layout=compact" />
 </p>
