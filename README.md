@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&theme=radical" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyu-tian&theme=dracula&bg_color=000&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyu-tian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
