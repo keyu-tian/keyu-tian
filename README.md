@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 </p>
 
 
-<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="keyu-tian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cn.linkedin.com/in/keyu-tian?trk=profile-badge">田柯宇</a></div>
-
-
