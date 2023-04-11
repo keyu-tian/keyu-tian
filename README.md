@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=keyu-tian&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=ffffff&show_icons=true&count_private=true&hide=issues" />
-<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keyu-tian&layout=compact&bg_color=ffffff" />
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keyu-tian&layout=compact&title_color=81A1C1&bg_color=ffffff" />
 </p>
 
 
